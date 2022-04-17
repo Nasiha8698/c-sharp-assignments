@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntoductiontoCsharpAssignment
+namespace Books_6
 {
    struct Book
     {
