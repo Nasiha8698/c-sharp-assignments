@@ -26,7 +26,7 @@ namespace fileIO
             DirectoryInfo ds = new DirectoryInfo(subdir2);
             //create file and write
             FileStream fs = File.Create(srcFilepath);
-            string[] lines = { "Syed Sameer", "sameersyed@gmail.com", "Bangalore" };
+            string[] lines = { "Nasiha", "nasi.hanee@gmail.com", "Bangalore" };
             StreamWriter sw = new StreamWriter(fs);
             foreach (string s in lines)
             {
